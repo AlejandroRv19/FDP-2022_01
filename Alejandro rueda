@@ -1,0 +1,102 @@
+<!DOCTYPE HTML PUBLIC>
+<html>
+    <title>Pagina de Alejandro rueda v</title>
+    <head class="titulo">Logo va aqui
+        <h2>Signos del zodiaco mas estrovertidos</h2>
+        <link rel="stylesheet" type="text/css" href="estilov2/estilov2.css" />
+
+    </head>
+    <body>
+ <header class="Menu">
+<nav>
+
+<ul>
+
+    <li>Inicio</li> 
+    <li>Categoria</li>
+    <li>Links</li>
+</ul>
+
+</nav>
+
+ </header>
+
+
+ <section class="Articulo">
+
+    <article class="pagina">
+
+        <h1>Sagitario</h1>
+        <p>Los Sagitario son personas muy seguras de sí mismas, así que no sienten vergüenza de nada. 
+        Su optimismo y gran efusividad los convierte en personas amables con todos. Se ganan el cariño de los demás por ser alegres y divertidos, incluso cuando hay problemas.</p>
+
+
+        <h1>Libra</h1>
+        <p>Las personas nacidas bajo este signo disfrutan de conocer a mucha gente y contar con varios amigos.
+ Les fascina ser muy sociables y hablar largo y tendido con nuevas amistades.
+ Además, al evitar el conflicto y ser conocidos por su sentido de justicia, son personas que rápidamente se ganan el cariño de los demás..</p>
+
+ <h1>Aries</h1>
+ <p>Las personas nacidas bajo este signo son extrovertidas por naturaleza. Les encanta estar en reuniones departiendo con amigos y familia, mientras hacen nuevas amistades.
+Disfrutan del contacto social y no se siente incómodos estando rodeados de muchas personas.</p>
+    </article>
+
+<p>Estos signos son considerados uno de los mas extrovertidos por su personalidades y carimas ak momento de hablar.</p>
+
+
+ </section>
+
+
+ <aside class="Barra">
+
+
+
+    <div>
+        <img src="Captura.PNG" width="250" 
+    alt="Logotipo"
+     </div>
+
+
+ </aside>
+
+<footer class="pie">
+    Pagina reservada por derechos de Alejandro Rueda V.
+</footer>
+
+
+    </body>
+</html>
+
+body{background-color: rgb(48, 9, 73);}
+.menu{background-color: rgb(67, 22, 117);}
+.articulo{background-color: rgb(134, 134, 230);
+
+width: 730px;
+height: 500px;
+float: left;
+
+
+}
+aside{background-color: rgb(70, 71, 134);
+
+    height: 500px;
+    width: 520px;
+    float: right ,top;
+    display: grid;
+    
+
+
+
+
+}
+.pie{background-color: rgb(17, 30, 87);
+
+float: bottom;
+}
+
+.pagina{background-color: rgb(65, 31, 156);}
+
+.titulo{font-size: 40px;
+ text-align: right;
+
+}
